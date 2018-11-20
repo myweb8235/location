@@ -17,7 +17,7 @@ iframe{
 }
 .fb-like{
 
-    position: fixed !important;
+        position: fixed !important;
     top: 50%;
     left: 0;
-    transform: translatey(-50%);}
+	transform: translatey(-50%);}
